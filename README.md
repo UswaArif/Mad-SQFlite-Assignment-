@@ -1,5 +1,5 @@
 # Mad-SQFlite-Assignment-
-This is my MAD lab assignment to create CRUD operations of User by Flutter, Dart and sqflite database in which user is added, updated, deleted, search and viewed from the local database sqflite.
+This is my MAD(Mobile Application Development) lab assignment to create CRUD operations of User by Flutter, Dart and sqflite database in which user is added, updated, deleted, search and viewed from the local database sqflite.
 
 Libraries to include is given in pubspec.yaml file:
 sqflite: ^2.3.0
